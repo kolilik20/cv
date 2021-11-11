@@ -58,7 +58,7 @@
                     <a class="nav-link" href="portofolio.html">Portofolio</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="kontak.html">Contact</a>
+                    <a class="nav-link" href="kontak.php">Contact</a>
                 </li>
                 </ul>
             </div>
